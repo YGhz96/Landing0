@@ -1,0 +1,25 @@
+<style>
+color: purple;
+font-family: Arial, Arial Black
+body {font-family: "Lato", sans-serif}
+font-weight: normal;
+h1,h2 {
+	border-bottom: 2px solid blue;
+}
+.blue  {
+	color:blue;
+	font size: 24px;
+
+}
+p.purple {
+	color:purple;
+	font-size: 25px;
+}
+.underline {
+	text-decoration: underline;
+	
+}
+#logo {
+width: 50px
+}
+</style>
